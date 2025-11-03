@@ -19,7 +19,7 @@
 
             .bg-color-1.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0.order-lg-2
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0.order-lg-2
                   figure
                     img(src='@/assets/curso/intro/2.png', alt='')
                 .col-lg.order-lg-1
@@ -29,7 +29,7 @@
         .bg-full-width.bg-color-2
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/intro/3.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 De igual manera, se estudian las entidades gubernamentales y no gubernamentales encargadas de la protección de los derechos del campesinado, junto con las acciones constitucionales disponibles para su defensa. A través de esta comprensión, los aprendices podrán formular rutas comunitarias de acción que contribuyan al fortalecimiento de la organización campesina y a la promoción de una ciudadanía rural activa, en coherencia con la misión del SENA y los principios de la reforma agraria.

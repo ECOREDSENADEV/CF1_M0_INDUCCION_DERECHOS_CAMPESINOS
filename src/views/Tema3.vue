@@ -14,7 +14,7 @@
       .col-lg-8.order-lg-1
         .bg-color-3.tarjeta.mb-3(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-md-4.col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema3/2.svg', alt='')
             .col-lg
@@ -50,7 +50,7 @@
     .bg-full-width.bg-color-5.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema3/6.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
             p.mb-0 Es importante visualizar de manera estructurada cuáles son las entidades que tienen competencia en la defensa de los derechos del campesinado, tanto desde el ámbito estatal como desde la sociedad civil. A su vez, se presentan las acciones constitucionales disponibles para proteger estos derechos cuando han sido vulnerados o se encuentran en riesgo. El siguiente cuadro resume de forma comparativa las principales entidades gubernamentales, organizaciones no gubernamentales y mecanismos legales de defensa, facilitando su identificación y comprensión por parte de las comunidades.
@@ -127,7 +127,7 @@
     .bg-full-width.bg-color-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema3/6.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
             p.mb-0 Estas entidades y mecanismos conforman una red institucional y legal que permite al campesinado organizarse, exigir, participar y defender sus derechos en el marco del Estado Social de Derecho. Conocerlos fortalece la capacidad de gestión comunitaria y el ejercicio pleno de la ciudadanía rural.

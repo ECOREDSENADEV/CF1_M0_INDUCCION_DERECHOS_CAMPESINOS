@@ -9,7 +9,7 @@
     
     .bg-color-6.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
-        .col-lg-auto.order-2
+        .col-lg-auto.mb-3.mb-lg-0.order-2
           figure
             img(src='@/assets/curso/tema2/1.png', alt='')
         .col-lg.order-1.mb-3.mb-lg-0
@@ -45,7 +45,7 @@
       .col-lg-8.order-lg-1
         .bg-color-3.tarjeta.mb-3(data-aos="fade-up")
           .row.justify-content-center.align-items-center
-            .col-lg-auto.mb-3.mb-lg-0
+            .col-md-4.col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
                 img(src='@/assets/curso/tema2/4.svg', alt='')
             .col-lg
@@ -137,7 +137,7 @@
     .bg-full-width.bg-color-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema2/21.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
             p.mb-0 Estas herramientas no solo permiten comprender la realidad desde múltiples perspectivas, sino que fomentan la participación activa de la comunidad en la identificación de problemas y la construcción de soluciones. El uso adecuado y combinado de estas técnicas fortalece los procesos organizativos y promueve decisiones colectivas más conscientes y fundamentadas.
@@ -204,7 +204,7 @@
     .bg-full-width.bg-color-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema2/21.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
             p.mb-0 Estos conceptos funcionan como categorías analíticas para entender integralmente una situación en un territorio. Abordarlos de manera articulada permite no solo identificar los problemas, sino también sus causas estructurales, relaciones con el entorno y oportunidades de transformación.
